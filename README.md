@@ -12,7 +12,7 @@ Neste projeto, foi desenvolvida uma SPA (Single-Page Application), um tipo de ap
   <img src=".github/preview.png" width="100%">
 </p>
 
- <h2 align="center"><a href="https://kaiquerebonato.github.io/Jogo-da-Adivinhacao/" target="_blank">Projeto ao vivo</a></h2>
+ <h2 align="center"><a href="https://kaiquerebonato.github.io/SPA-UNIVERSE/" target="_blank">Projeto ao vivo</a></h2>
 
 ### 🚀 Tecnologias
 

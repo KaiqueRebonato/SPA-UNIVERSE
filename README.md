@@ -14,6 +14,14 @@ Neste projeto, foi desenvolvida uma SPA (Single-Page Application), um tipo de ap
 
  <h2 align="center"><a href="https://kaiquerebonato.github.io/SPA-UNIVERSE/" target="_blank">Projeto ao vivo</a></h2>
 
+### Para ver esse projeto funcionando corretamente é preciso fazer o download do código, abrir com o VsCode, e executar o LiveServer, ou abrir o terminal e digitar npm start.
+
+- Conceitos de SPA;
+- Mapeamento de rotas;
+- Assíncrono e promisses;
+- Orientação a objetos;
+- Classes e muito mais.
+
 ### 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -28,5 +36,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ por Kaique Rebonato :wave:
+rebonatokaique@gmail.com :wave:
